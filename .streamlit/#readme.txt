@@ -1,0 +1,1 @@
+Pasta para armazenar arquivos de configurações específicos do Streamlit, por exemplo: config.toml, secrets.toml
